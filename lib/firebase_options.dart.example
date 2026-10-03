@@ -1,0 +1,8 @@
+// This file is intentionally a template.
+// Do not edit this manually.
+//
+// Run:
+//   dart pub global activate flutterfire_cli
+//   flutterfire configure
+//
+// FlutterFire will generate lib/firebase_options.dart for your Firebase project.
